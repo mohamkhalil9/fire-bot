@@ -15,6 +15,7 @@ client.on("message", message => {
       .setThumbnail(message.author.avatarURL)
       .setDescription(`
 ***
+`Server ExPlosive يرحب بكم من جديد`
 ملاحظه
 Special orders ان برفكس الاوامر المميزه او
 
